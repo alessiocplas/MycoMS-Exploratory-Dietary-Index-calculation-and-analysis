@@ -96,7 +96,7 @@ edi_categories <- list(
   dairy = c("milk", "plain_yogurt", "sliced_cheese"),
   lean_protein = c("chicken_fillet", "boiled_steamed_fish", "boiled_egg"),
   processed_meat = c("sausages"),
-  added_sugars = c("chocolate", "sugared_drinks", "ice_cream"),
+  processed_sugars = c("chocolate", "sugared_drinks", "ice_cream"),
   fats_healthy = c("liquid_fat", "oil"),
   fats_unhealthy = c("hard_fat", "soft_fat"),
   sodium_rich = c("soy_sauce", "canned_packaged_soup"),
