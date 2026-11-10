@@ -56,7 +56,7 @@ if (!id_column %in% names(dat)) {
 # Negative = higher intake receives a lower item score.
 positive_items <- c(
   "whole_grain_bread",
-  "muesli",
+  "cereals",
   "vegetables",
   "fruits",
   "milk",
@@ -89,7 +89,7 @@ negative_items <- c(
 # ---- 3. Define the 12 EDI categories ----
 # Check and edit names against the final data dictionary.
 edi_categories <- list(
-  whole_grains = c("whole_grain_bread", "muesli"),
+  whole_grains = c("whole_grain_bread", "cereals"),
   refined_grains = c("white_bread", "white_pasta_rice", "dessert_cake"),
   vegetables = c("vegetables"),
   fruits = c("fruits"),
