@@ -1,6 +1,6 @@
 # MycoMS - Exploratory Dietary Index calculation and analysis
 
-#Classification of food categories
+### Classification of food categories
 
 The 12 food categories included in the Eating Diversity Index (EDI) were classified into positive and negative dietary components based on established dietary-quality indices, particularly the Healthy Eating Index (HEI-2010) and the Alternative Healthy Eating Index (AHEI-2010).
 
