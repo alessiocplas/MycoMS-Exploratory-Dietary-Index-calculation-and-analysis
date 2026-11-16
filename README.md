@@ -4,7 +4,7 @@ Here we shared the script and rationale on how the EDI score was calculated for 
 
 ### Classification of food categories
 
-The 12 food categories included in the Eating Diversity Index (EDI) were classified into positive and negative dietary components based on established dietary-quality indices, particularly the Healthy Eating Index (HEI-2010) and the Alternative Healthy Eating Index (AHEI-2010).
+The 12 food categories included in the Eating Diversity Index (EDI) were classified into positive and negative dietary components based on established dietary-quality indices, particularly the Healthy Eating Index (HEI-2020).
 
 Food categories considered to contribute favourably to dietary quality included whole grains, vegetables, fruits, dairy products, lean protein sources and healthier fat sources. These categories were classified as positive components, reflecting the emphasis placed on the consumption of nutrient-dense foods and favourable dietary components in established dietary-quality indices.
 
