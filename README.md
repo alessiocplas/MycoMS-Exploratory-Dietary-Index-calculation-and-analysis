@@ -1,5 +1,7 @@
 # MycoMS - Exploratory Dietary Index calculation and analysis
 
+Here we shared the script and rationale on how the EDI score was calculated for the paper, in order to allow other researchers to adopt or modify the same principle for their gut microbiota -driven nutritional studies.
+
 ### Classification of food categories
 
 The 12 food categories included in the Eating Diversity Index (EDI) were classified into positive and negative dietary components based on established dietary-quality indices, particularly the Healthy Eating Index (HEI-2010) and the Alternative Healthy Eating Index (AHEI-2010).
